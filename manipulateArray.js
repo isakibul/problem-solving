@@ -19,6 +19,7 @@ function processArray(arr) {
   return result;
 }
 
+// sample
 const inputArray = [5, 3, 8, 3, 1, 5, 7, 8, 2, 4];
 const result = processArray(inputArray);
 console.log(result);

@@ -6,5 +6,6 @@ function reverseString(str) {
   return resultArray.join("");
 }
 
+// sample
 const result = reverseString("sakibul");
 console.log(result);
