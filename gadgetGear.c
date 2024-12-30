@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// fix definition
 #define MAX_RECORDS 100
 #define DATABASE_FILE "products.txt"
 
