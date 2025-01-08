@@ -20,7 +20,7 @@ int romanToInt(char* s) {
                 return 1;
             default:
                 return 0;
-        }
+        };
     };
 
     int result = 0;
